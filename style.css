@@ -13,7 +13,7 @@ ul li a {
 }
 
 a {
-  text-decoration: ;
+  text-decoration: none;
   position: relative;
   overflow: hidden;
 }
@@ -70,13 +70,20 @@ h1 {
 }
 
 p {
-  font-family: "Bebas Neue", sans-serif;
+  font-family: "Bad Script", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+
+li { 
+  font-family: "Berkshire Swash", serif;
   font-weight: 400;
   font-style: normal;
 }
 
-li {
-  font-family: "Story Script", sans-serif;
+h2 {
+ font-family: "Story Script", sans-serif;
   font-weight: 400;
   font-style: normal;
 }
